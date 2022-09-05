@@ -37,7 +37,7 @@
   <img align="center" alt="von-VJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="von-AZ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="von-PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="von-x" height="150" style="border-radius:50px;" src="https://discord.com/channels/693623067565359217/894662039807602698/1016229415040073759">
+  <img align="right" alt="von-x" height="150" style="border-radius:50px;"giphy.gif">
 </div>
   
   ##
