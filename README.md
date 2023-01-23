@@ -3,7 +3,7 @@
 
 - 👨🏽‍💻 Trabalho com Dev - Front e Back-end
 - 💻 Estudante de Engenharia de Software - Puc-PR
-- 🕸️ Cursando IBM Full Stack Software Developer Assessment & Google Technical Support Fundamentals
+- 🕸️ Cursando Academia ABAP - NTT Business Data Solutions Brazil
 - ⌨️ Estudando Node.js - Vue.js - TypeScript - Microsoft Azure - Python
  ##
  <br>
