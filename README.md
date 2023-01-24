@@ -4,7 +4,7 @@
 - 👨🏽‍💻 Trabalho com Dev - Front e Back-end
 - 💻 Estudante de Engenharia de Software - Puc-PR
 - 🕸️ Cursando Academia ABAP - NTT Business Data Solutions Brazil
-- ⌨️ Estudando Node.js - Vue.js - TypeScript - Microsoft Azure - Python
+- ⌨️ Estudando Node.js - Vue.js - Svelte - ABAP - Python
  ##
  <br>
  <div>
