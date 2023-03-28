@@ -1,7 +1,7 @@
 ### Heyy, I'm Von
 
 
-- 👨🏽‍💻 Trabalho com Dev - Front e Back-end
+- 👨🏽‍💻 Dev - Front e Back-end
 - 💻 Estudante de Engenharia de Software - Puc-PR
 - 🕸️ Cursando Svelte e Linguas na Alura
 - ⌨️ Estudando Node.js - Svelte - React - Tail Wind - Css -
