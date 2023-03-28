@@ -37,7 +37,7 @@
   <img align="center" alt="von-VJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="von-AZ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="von-PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img aling="center" alt="von-ST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
+  <img aling="center" alt="von-ST" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
   <a href="https://www.instagram.com/victorgbn_/" target="_blank"><img align=right height="180" width="170" src="https://media.giphy.com/media/2bB04zzMxjTqHcYU95/giphy.gif" target="_blank"></a> 
 </div>
   
