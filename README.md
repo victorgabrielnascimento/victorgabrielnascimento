@@ -1,11 +1,15 @@
-### Heyy, I'm Von
-
-
-- 👨🏽‍💻 Dev - Front e Back-end
-- 💻 Estudante de Engenharia de Software - Puc-PR
-- 🕸️ Cursando Svelte e Linguas na Alura
-- ⌨️ Estudando Node.js - Svelte - React - Tail Wind - Css -
- ##
+<h1 align="center">Heyy, I'm Von <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></h1>
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Español</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+</table>
+<div class="left" align="left" display="flex" flex-direction="column">
+ <h4>- 👨🏽‍💻 Dev - Front e Back-end</h1>
+ <h4>- 💻 Estudante de Engenharia de Software - Puc-PR</h1>
+ <h4>- 🕸️ Cursando Svelte e Linguas na Alura</h1>
+ <h4>- ⌨️ Estudando Node.js - Svelte - React - Tail Wind - Css -</h1>
+</div>
  <br>
  <div>
  <a href = "mailto:victorgabrielnamelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
