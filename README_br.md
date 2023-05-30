@@ -1,8 +1,8 @@
 <h1 align="center">Eaí, Sou Von <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></h1>
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/sp-flag.png" height="13"> Español</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Español</a></td></tr>
+ <tr><td><a href="README_br.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 <div class="left" align="left" display="flex" flex-direction="column">
  <h4>- 👨🏽‍💻 Dev - Front e Back-end</h4>
