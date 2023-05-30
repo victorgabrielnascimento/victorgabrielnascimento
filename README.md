@@ -5,10 +5,11 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 <div class="left" align="left" display="flex" flex-direction="column">
- <h4>- 👨🏽‍💻 Dev - Front e Back-end</h1>
- <h4>- 💻 Estudante de Engenharia de Software - Puc-PR</h1>
- <h4>- 🕸️ Cursando Svelte e Linguas na Alura</h1>
- <h4>- ⌨️ Estudando Node.js - Svelte - React - Tail Wind - Css -</h1>
+ <h4>- 👨🏽‍💻 Dev - Front e Back-end</h4>
+ <h4>-  <img src="images/br-flag.png" height="20" align="center">  Studying and Working in Brazil
+ <h4>- 🕸️ Studying Svelte and Languages at Alura</h4>
+ <h4>- 💻 Software Engineering Student - Puc-PR</h4>
+ <h4>- ⌨️ Studying Node.js - Svelte - React - Tailwind - CSS -</h4>
 </div>
  <br>
  <div>
@@ -61,6 +62,6 @@
   
   ##
 
- <br><p align="centre"><b>Visitors Count</b></p>  
+ <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorgabrielnascimento}/count.svg" /></p> 
 <br></div>
