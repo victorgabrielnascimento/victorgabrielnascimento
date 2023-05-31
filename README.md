@@ -65,3 +65,4 @@
  <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorgabrielnascimento}/count.svg" /></p> 
 <br></div>
+<img src="images/header_end.svg"></img>
