@@ -1,4 +1,4 @@
-<h1 align="center">Heyy, I'm Von <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></h1>
+<img src="images/header_en.svg"></img>
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Español</a></td></tr>
