@@ -198,7 +198,7 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="60" font-family="Helvetica" font-size="1.3px" fill="white"
+<text x="58" font-family="Helvetica" font-size="1.3px" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
       Estudante de Engenharia de Software, Desenvolvimento de Software, Gerenciamento de Projetos.
