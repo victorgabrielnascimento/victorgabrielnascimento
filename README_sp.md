@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Von <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></h1>
+<img src="images/header_sp.svg"></img>
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Español</a></td></tr>
@@ -65,3 +65,4 @@
  <br><p align="center"><b>Cuenta de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorgabrielnascimento}/count.svg" /></p> 
 <br></div>
+<img src="images/header_end.svg"></img>
