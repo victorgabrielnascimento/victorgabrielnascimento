@@ -33,10 +33,81 @@
 
  ##
 <br>
+  <details> 
+  <summary><h2>🥇 Certificates and Degrees Activity 🥇</h2></summary>
 
+   <details>
+    <summary><h4>Coursera - Google Foundations of Project Management </h4></summary>
+    
+   </details>
+   <details>
+    <summary><h4>Coursera - Google Technical Support Fundamentals </h4></summary>
+   </details>
+   
+   <details>
+    <summary><h4>Coursera - IBM Full Stack Software Developer Assessment </h4></summary>
+   </details>
+   
+   <details>
+    <summary><h4> NTT DATA - SAP ABAP Academy</h4></summary>
+   </details>
+
+   <details>
+    <summary><h4> Bradesco Foundation - Advenced HTML</h4></summary>
+   </details>
+   
+   <details>
+    <summary><h4> Bradesco Foundation - I.T Systems Projects </h4></summary>
+   </details>  
+   
+   <details>
+    <summary><h4> Bradesco Foundation - Project Management </h4></summary>
+   </details>
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorgabrielnascimento&bg_color=0a0c10&color=364a87&line=364a87&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   <details>
+    <summary><h4> Bradesco Foundation - Introduction to HTML, CSS and JavaScript </h4></summary>
+   </details>
  
+   <details>
+    <summary><h4> Brasil+Digital Support Microsoft - AI for Financial Services</h4></summary>
+   </details> 
+   
+   <details>
+    <summary><h4> Brasil+Digital Support Microsoft - AI Strategy to Drive Business Value</h4></summary>
+   </details> 
+   
+   <details>
+    <summary><h4> Brasil+Digital Support Microsoft - Principles Guiding the Responsible Use of AI</h4></summary>
+   </details> 
+   
+   <details>
+    <summary><h4> Workover Academy - Sass</h4></summary>
+    <a href="https://drive.google.com/file/d/1fIADZ-LersoCVZSAalK66OQdvDf37GuO/view?usp=sharing">
+     <img src="images/sp-flag.png" alt="Descrição da Imagem">
+    </a>
+   </details> 
+     
+   <details>
+    <summary><h4> Workover Academy - HTML 5</h4></summary>
+   </details> 
+   
+   <details>
+    <summary><h4> Workover Academy - Soft Skills</h4></summary>
+   </details>
+   
+   <details>
+    <summary><h4> Workover Academy - Google Cloud</h4></summary>
+   </details>
+   
+   <details>
+    <summary><h4> Workover Academy - Comunication</h4></summary>
+   </details> 
+   
+   <details>
+    <summary><h4> Workover Academy - Leadership and People Management</h4></summary>
+   </details>
+</details>
+  
  ##
 <br>
 <div>
