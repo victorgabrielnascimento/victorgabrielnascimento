@@ -33,79 +33,48 @@
 
  ##
 <br>
-  <details> 
+  <details align="center"> 
   <summary><h2>🥇 Certificates and Degrees Activity 🥇</h2></summary>
 
    <details>
-    <summary><h4>Coursera - Google Foundations of Project Management </h4></summary>
-    
-   </details>
-   <details>
-    <summary><h4>Coursera - Google Technical Support Fundamentals </h4></summary>
-   </details>
-   
-   <details>
-    <summary><h4>Coursera - IBM Full Stack Software Developer Assessment </h4></summary>
+    <summary><h3>Coursera</h3></summary>
+     <h4>Google Technical Support Fundamentals</h4>
+     <h4>Google Foundations of Project Management</h4>
+     <h4>Google IT Security: Defense against the Digital</h4>
+     <h4>IBM Full Stack Software Developer Assessment</h4>
+
    </details>
    
    <details>
-    <summary><h4> NTT DATA - SAP ABAP Academy</h4></summary>
+    <summary><h3> NTT DATA </h3></summary>
+     <h4> SAP ABAP Academy </h4>
    </details>
 
    <details>
-    <summary><h4> Bradesco Foundation - Advenced HTML</h4></summary>
-   </details>
-   
+    <summary><h3> Workover Academy </h3></summary>
+     <h4>Sass</h4>
+     <h4>Figma</h4>
+     <h4>HTML 5</h4>
+     <h4>Soft Skills</h4>
+     <h4>Comunication</h4>
+     <h4>Google Cloud</h4>
+     <h4>Leadership and People Management</h4>
+   </details> 
+
    <details>
-    <summary><h4> Bradesco Foundation - I.T Systems Projects </h4></summary>
+    <summary><h3>Bradesco Foundation</h3></summary>
+     <h4>Advenced HTML</h4>
+     <h4>I.T Systems Projects</h4>
+     <h4>Project Management</h4>
+     <h4>Introduction to HTML, CSS and JavaScript</h4>
+   </details>
+ 
+   <details>
+    <summary><h3> Brasil+Digital Support Microsoft</h3></summary>
+    <h4>AI for Financial Services</h4>
+    <h4>AI Strategy to Drive Business Value</h4>
+    <h4>Principles Guiding the Responsible Use of AI</h4>
    </details>  
-   
-   <details>
-    <summary><h4> Bradesco Foundation - Project Management </h4></summary>
-   </details>
- 
-   <details>
-    <summary><h4> Bradesco Foundation - Introduction to HTML, CSS and JavaScript </h4></summary>
-   </details>
- 
-   <details>
-    <summary><h4> Brasil+Digital Support Microsoft - AI for Financial Services</h4></summary>
-   </details> 
-   
-   <details>
-    <summary><h4> Brasil+Digital Support Microsoft - AI Strategy to Drive Business Value</h4></summary>
-   </details> 
-   
-   <details>
-    <summary><h4> Brasil+Digital Support Microsoft - Principles Guiding the Responsible Use of AI</h4></summary>
-   </details> 
-   
-   <details>
-    <summary><h4> Workover Academy - Sass</h4></summary>
-    <a href="https://drive.google.com/file/d/1fIADZ-LersoCVZSAalK66OQdvDf37GuO/view?usp=sharing">
-     <img src="images/sp-flag.png" alt="Descrição da Imagem">
-    </a>
-   </details> 
-     
-   <details>
-    <summary><h4> Workover Academy - HTML 5</h4></summary>
-   </details> 
-   
-   <details>
-    <summary><h4> Workover Academy - Soft Skills</h4></summary>
-   </details>
-   
-   <details>
-    <summary><h4> Workover Academy - Google Cloud</h4></summary>
-   </details>
-   
-   <details>
-    <summary><h4> Workover Academy - Comunication</h4></summary>
-   </details> 
-   
-   <details>
-    <summary><h4> Workover Academy - Leadership and People Management</h4></summary>
-   </details>
 </details>
   
  ##
