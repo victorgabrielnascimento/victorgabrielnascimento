@@ -38,6 +38,7 @@
 
    <details>
     <summary><h3>Coursera</h3></summary>
+    <img src="images/Coursera.png"></img>
      <h4>Google Technical Support Fundamentals</h4>
      <h4>Google Foundations of Project Management</h4>
      <h4>Google IT Security: Defense against the Digital</h4>
