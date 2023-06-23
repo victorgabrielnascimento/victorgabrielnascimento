@@ -34,44 +34,80 @@
  ##
 <br>
   <details align="center"> 
-  <summary><h2>🥇 Certificates and Degrees Activity 🥇</h2></summary>
+  <summary><h1>🥇 Certificates and Degrees Activity 🥇</h1></summary>
 
    <details>
-    <summary><h3>Coursera</h3></summary>
-    <img src="images/Coursera.png"></img>
-     <h4>Google Technical Support Fundamentals</h4>
-     <h4>Google Foundations of Project Management</h4>
-     <h4>Google IT Security: Defense against the Digital</h4>
-     <h4>IBM Full Stack Software Developer Assessment</h4>
+    <summary><img src="images/Courses/Coursera.png"></img></summary>
+      <p>My experience with Coursera was truly remarkable! The platform provided me with an incredible opportunity to expand my knowledge and skills for free, just for sharing my life history at they financial assistance program. From the moment I started exploring the courses, I was captivated by the diverse range of subjects available. The platform's user-friendly interface made it easy for me to navigate and access high-quality course materials. I appreciated the flexibility of being able to learn at my own pace, fitting the coursework into my busy schedule, and that made for me believe Coursera the best site to learn tech for free in hole internet.</p>
+      <details>
+       <summary><h3>Google Technical Support Fundamentals</h3></summary>
+        <img src="images/Courses/Google.png"></img>
+      </details>
+      <details>
+       <summary><h3>Google Foundations of Project Management</h3></summary>
+        <img src="images/Courses/Google.png"></img>
+      </details>
+      <details>
+       <summary><h3>Google IT Security: Defense against the Digital</h3></summary>
+        <img src="images/Courses/Google.png"></img>
+      </details>
+      <details>
+       <summary><h3>IBM Full Stack Software Developer Assessment</h3></summary>
+        <img src="images/Courses/IBM.png"></img>
+      </details>
 
    </details>
    
    <details>
-    <summary><h3> NTT DATA </h3></summary>
-     <h4> SAP ABAP Academy </h4>
+    <summary><img src="images/Courses/NTTDATA.png"></img></summary>
+      <details>
+        <summary><h3> SAP ABAP Academy </h2></summary>
+       </details>
    </details>
 
    <details>
-    <summary><h3> Workover Academy </h3></summary>
-     <h4>Sass</h4>
-     <h4>Figma</h4>
-     <h4>HTML 5</h4>
-     <h4>Soft Skills</h4>
-     <h4>Comunication</h4>
-     <h4>Google Cloud</h4>
-     <h4>Leadership and People Management</h4>
+    <summary><img src="images/Courses/Work.png"></img></summary>
+      <details>
+       <summary><h3>Sass</h3></summary>
+      </details>
+      <details>
+       <summary><h3>Figma</h3></summary>
+      </details>
+      <details>
+       <summary><h3>HTML 5</h3></summary>
+      </details>
+      <details>
+       <summary><h3>Soft Skills</h3></summary>
+      </details>
+      <details>
+       <summary><h3>Comunication</h3></summary>
+      </details>
+      <details>
+       <summary><h3>Google Cloud</h3></summary>
+      </details>
+      <details>
+       <summary><h3>Leadership and People Management</h3></summary>
+      </details>
    </details> 
 
    <details>
-    <summary><h3>Bradesco Foundation</h3></summary>
-     <h4>Advenced HTML</h4>
-     <h4>I.T Systems Projects</h4>
-     <h4>Project Management</h4>
-     <h4>Introduction to HTML, CSS and JavaScript</h4>
+    <summary><img src="images/Courses/Bradesco.png"></img></summary>
+      <details>
+        <summary><h3>Advenced HTML</h3></summary>
+      </details>
+      <details>
+       <summary><h3>I.T Systems Projects</h3></summary>
+      </details>
+      <details>
+       <summary><h3>Project Management</h3></summary>
+      </details>
+      <details>
+       <summary><h3>Introduction to HTML, CSS and JavaScript</h3></summary>
+       </details>
    </details>
  
    <details>
-    <summary><h3> Brasil+Digital Support Microsoft</h3></summary>
+    <summary><h2> Brasil+Digital Support Microsoft</h2></summary>
     <h4>AI for Financial Services</h4>
     <h4>AI Strategy to Drive Business Value</h4>
     <h4>Principles Guiding the Responsible Use of AI</h4>
