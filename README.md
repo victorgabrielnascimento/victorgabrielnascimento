@@ -111,9 +111,10 @@
  
    <details>
     <summary><button >SHOW</button><img src="images/Courses/micr.png"></img></summary>
-     <h4>AI for Financial Services</h4>
-     <h4>AI Strategy to Drive Business Value</h4>
-     <h4>Principles Guiding the Responsible Use of AI</h4>
+     <p>Looking to improve myself more, both in skills and mindset, I discovered this program, Brasil+ Digital with support from Microsoft, they offer several quality courses with a lot of documentation and exercises for those interested free of charge, some of the courses are not translated for everyone languages (which was not a barrier for me) but there is a vast availability of relevant content from different specializations, I decided to focus my strengths on AI, the platform is great and very complete, I recommend it 100%!</p>
+      <h4>AI for Financial Services</h4>
+      <h4>AI Strategy to Drive Business Value</h4>
+      <h4>Principles Guiding the Responsible Use of AI</h4>
    </details>  
 </details>
   
