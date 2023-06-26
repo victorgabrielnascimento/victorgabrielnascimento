@@ -5,11 +5,11 @@
  <tr><td><a href="README_br.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 <div class="left" align="left" display="flex" flex-direction="column">
- <h4>- 👨🏽‍💻 Dev - Front e Back-end</h4>
+ <h4>- 👨🏽‍💻 Dev - Front and Back-end</h4>
  <h4>-  <img src="images/br-flag.png" height="20" align="center">  Studying and Working in Brazil
- <h4>- 🕸️ Studying Svelte and Languages at Alura</h4>
  <h4>- 💻 Software Engineering Student - Puc-PR</h4>
- <h4>- ⌨️ Studying Node.js - Svelte - React - Tailwind - CSS -</h4>
+ <h4>- ⌨️ Studying Node.js - Svelte - React - JavaScript - ABAP</h4>
+ <h4>- 🕸️ Studying Principles of UX/UI Design and SAP Professional Fundamentals at Coursera</h4>
 </div>
  <br>
  <div>
@@ -37,7 +37,7 @@
   <summary><h1>🥇 Certificates and Degrees Activity 🥇</h1></summary>
 
    <details>
-    <summary><img src="images/Courses/Coursera.png"></img></summary>
+    <summary><button>SHOW</button><img src="images/Courses/Coursera.png"></img></summary>
       <p>My experience with Coursera was awesome! The platform provided me with an incredible opportunity to expand my knowledge and skills for free, just for sharing my life history at they financial assistance program. From the moment I started exploring the courses, I was captivated by the diverse range of subjects available. The platform's user-friendly interface made it easy for me to navigate and access high-quality course materials. I appreciated the flexibility of being able to learn at my own pace, fitting the coursework into my busy schedule, and that made for me believe Coursera the best site to learn tech for free in hole internet.</p>
       <details>
        <summary><h3>Google Technical Support Fundamentals</h3></summary>
@@ -59,7 +59,7 @@
    </details>
    
    <details>
-    <summary><img src="images/Courses/NTTDATA.png"></img></summary>
+    <summary><button>SHOW</button><img src="images/Courses/NTTDATA.png"></img></summary>
       <details>
         <summary><h3> SAP ABAP Academy </h2></summary>
          <p>I recived the oportunity to learn about SAP language right from NTT DATA, was a 1 mounth academy, 4 hours per day, passing trought chalenges, exercises and a final project that simulates a real project comun asked from companys as a ABAP Developer. It was an amazing jorney, I made a lot of networking, learn with people, helping people and bring some this people to my personal life, this academy tourn me in a hunter to knolage and networking, I will never forget this experience.</p>
@@ -67,7 +67,7 @@
    </details>
 
    <details>
-    <summary><img src="images/Courses/Work.png"></img></summary>
+    <summary><button>SHOW</button><img src="images/Courses/Work.png"></img></summary>
      <p>I recived the oportunity to study for free in this tech school, I need to pass in a write interview teeling them about me and my history, my goals and what this opportunity could give. Only some people could pass and receive de aid to study at the plataform. There have amazing courses to learn since personal growt to code languages or software.</p>
       <details>
        <summary><h3>Sass</h3></summary>
@@ -93,7 +93,7 @@
    </details> 
 
    <details>
-    <summary><img src="images/Courses/Bradesco.png"></img></summary>
+    <summary><button>SHOW</button><img src="images/Courses/Bradesco.png"></img></summary>
     <p>The Bradesco Foundation offers to students all courses for free at them website, the courses are really helpful to learn and apply all the knolege received from the course to do the exercises and tests to won the certificates from the website, everyone can subscribe to do the courses and recive certificates for free and learn more about what they offer in they courses, they have courses to many areas, since IT to company management!</p>
       <details>
         <summary><h3>Advenced HTML</h3></summary>
@@ -110,7 +110,7 @@
    </details>
  
    <details>
-    <summary><img src="images/Courses/micr.png"></img></summary>
+    <summary><button >SHOW</button><img src="images/Courses/micr.png"></img></summary>
      <h4>AI for Financial Services</h4>
      <h4>AI Strategy to Drive Business Value</h4>
      <h4>Principles Guiding the Responsible Use of AI</h4>
