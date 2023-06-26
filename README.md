@@ -110,10 +110,10 @@
    </details>
  
    <details>
-    <summary><h2> Brasil+Digital Support Microsoft</h2></summary>
-    <h4>AI for Financial Services</h4>
-    <h4>AI Strategy to Drive Business Value</h4>
-    <h4>Principles Guiding the Responsible Use of AI</h4>
+    <summary><img src="images/Courses/micr.png"></img></summary>
+     <h4>AI for Financial Services</h4>
+     <h4>AI Strategy to Drive Business Value</h4>
+     <h4>Principles Guiding the Responsible Use of AI</h4>
    </details>  
 </details>
   
