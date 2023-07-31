@@ -8,8 +8,8 @@
  <h4>- 👨🏽‍💻 Dev - Front e Back-end</h4>
  <h4>- <img src="images/br-flag.png" height="13">  Estudando e Trabalhando no Brasil</h4>
  <h4>- 💻 Estudante de Engenharia de Software - Puc-PR</h4>
- <h4>- ⌨️ Estudando Node.js - Svelte - React - Tailwind - CSS -</h4>
- <h4>- 🕸️ Studying Principles of UX/UI Design and SAP Professional Fundamentals at Coursera</h4>
+ <h4>- ⌨️ Estudando Node.js - Node-Red - React - Type Script </h4>
+ <h4>- 🕸️ Cursando Principles of UX/UI Design and SAP Professional Fundamentals na Coursera</h4>
 </div>
  <br>
  <div>
@@ -141,8 +141,4 @@
  <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorgabrielnascimento}/count.svg" /></p> 
 <br></div>
-<img src="images/header_end.svg"></img>><b>Número de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorgabrielnascimento}/count.svg" /></p> 
-<br></div>
 <img src="images/header_end.svg"></img>
-  ##
