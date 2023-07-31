@@ -8,7 +8,7 @@
  <h4>- 👨🏽‍💻 Dev - Front e Back-end</h4>
  <h4>- <img src="images/br-flag.png" height="13"> Estudiando y Trabajando en Brasil
  <h4>- 💻 Estudiante de Ingeniería de Software - Puc-PR</h4>
- <h4>- ⌨️ Estudiando Node.js - Svelte - React - Tailwind - CSS -</h4>
+ <h4>- ⌨️ Estudiando Node.js - Node-Red - React - Type Script- ABAP</h4>
  <h4>- 🕸️ Estudiando Principios de diseño UX/UI y SAP Professional Fundamentals en Coursera</h4>
 </div>
  <br>
