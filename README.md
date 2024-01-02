@@ -1,8 +1,8 @@
 <img src="images/header_en.svg"></img>
 <table align="right">
+ <tr><td><a href="README_br.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Español</a></td></tr>
- <tr><td><a href="README_br.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 <div class="left" align="left" display="flex" flex-direction="column">
  <h4>- 👨🏽‍💻 Dev - Front and Back-end</h4>
