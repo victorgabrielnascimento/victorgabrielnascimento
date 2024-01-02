@@ -1,12 +1,12 @@
 <img src="images/header_pt.svg"></img>
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Español</a></td></tr>
  <tr><td><a href="README_br.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Español</a></td></tr>
 </table>
 <div class="left" align="left" display="flex" flex-direction="column">
  <h4>- 👨🏽‍💻 Dev - Front e Back-end</h4>
- <h4>- <img src="images/br-flag.png" height="13">  Estudando e Trabalhando no Brasil</h4>
+ <h4>-  <img src="images/br-flag.png" height="13">  Estudando e Trabalhando no Brasil</h4>
  <h4>- 💻 Estudante de Engenharia de Software - Puc-PR</h4>
  <h4>- ⌨️ Estudando Node.js - Node-Red - React - Type Script - ABAP</h4>
  <h4>- 🕸️ Cursando Principles of UX/UI Design and SAP Professional Fundamentals na Coursera</h4>
