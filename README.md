@@ -5,11 +5,11 @@
  <tr><td><a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Español</a></td></tr>
 </table>
 <div class="left" align="left" display="flex" flex-direction="column">
- <h4>- 👨🏽‍💻 Dev - Front and Back-end</h4>
- <h4>-  <img src="images/br-flag.png" height="20" align="center">  Studying and Working in Brazil
- <h4>- 💻 Software Engineering Student - Puc-PR</h4>
- <h4>- ⌨️ Studying Node.js - Node-Red - React - Type Script - ABAP</h4>
- <h4>- 🕸️ Studying Principles of UX/UI Design and SAP Professional Fundamentals at Coursera</h4>
+ <h4>- 👨🏽‍💻 Software Engineer - Full-Stack Developer</h4>
+ <h4>-  <img src="images/br-flag.png" height="20" align="center">  Currently Working in Brazil
+ <h4>- 💻 Software Engineering - Puc-PR</h4>
+ <h4>- ⌨️ Learning React - System Architecture - NextJs - C# </h4>
+ <h4>- 🕸️ Studying Figma, Sketch & Miro for UX Design Professional Certificate at Coursera</h4>
 </div>
  <br>
  <div>
