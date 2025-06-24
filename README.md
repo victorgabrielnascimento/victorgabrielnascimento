@@ -153,7 +153,6 @@
  <a href="https://sketch.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="sketch" width="100" height="30"/> </a>
  <a href="https://adobe.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="xd" width="100" height="30"/> </a>
  <a href="https://blender.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" width="120" height="30"/> </a>
- <a href="https://adobe.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="adobe" width="190" height="30"/> </a>
  <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" width="100" height="30"/> </a>
  <a href="https://www.unrealengine.com/pt-BR" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="unreal" width="160" height="30"/> </a>
 </p>
