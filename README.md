@@ -142,11 +142,10 @@
  <p align="center">
  <img src="https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=svelte&color=FF3E00" alt="Svelte"/> </a>
  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" alt="React"/>
- <img src="https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=nodedotjs&color=339933" alt="Node.js"/>
  <img src="https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&color=ea2845" alt="NestJS"/>
+ <img src="https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=nodedotjs&color=339933" alt="Node.js"/>
  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=007ACC" alt="TypeScript"/>
  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=239120" alt="C#"/>
- <img src="https://img.shields.io/badge/Library-Chart.js-informational?style=flat&logo=chart.js&color=FFD43B" alt="Chart.js"/>
  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=00000F" alt="MySQL"/>
 </p>
 </div>
