@@ -13,10 +13,18 @@
  <br>
  <div>
  <div class= "connectWithMe" align="center">
-  <a href = "mailto:victorgabrielnamelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victorgnascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/victornascimento" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-  <a href="https://www.coursera.org/user/c64b35a0a3552907b1a917c0f2ec2f2d" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank"></a>
+  <a href="mailto:victorgabrielnamelo@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Connect-Gmail-informational?style=flat&logo=gmail&color=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/victorgnascimento/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-informational?style=flat&logo=linkedin&color=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.behance.net/victornascimento" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Behance-informational?style=flat&logo=behance&color=1769ff" alt="Behance"/>
+  </a>
+  <a href="https://www.coursera.org/user/c64b35a0a3552907b1a917c0f2ec2f2d" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Education-Coursera-informational?style=flat&logo=coursera&color=0056D2" alt="Coursera"/>
+  </a>
  </div>
   
   ##
@@ -134,14 +142,14 @@
 <div>
  <p align="center"><b> Technical </b></p>  
  <p align="center">
- <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="sass" width="100" height="30"/> </a>
- <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="100" height="30"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" width="100" height="30"/> </a>
- <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" alt="nestjs" width="100" height="30"/> </a>
- <a href="https://tailwind.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="tail" width="130" height="30"/> </a>
- <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp" width="50" height="30"/> </a>
- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="chartjs" width="100" height="30"/> </a>
- <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="react" width="100" height="30"/> </a>
+ <img src="https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=svelte&color=FF3E00" alt="Svelte"/> </a>
+ <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" alt="React"/>
+ <img src="https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=nodedotjs&color=339933" alt="Node.js"/>
+ <img src="https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&color=ea2845" alt="NestJS"/>
+ <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=007ACC" alt="TypeScript"/>
+ <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=239120" alt="C#"/>
+ <img src="https://img.shields.io/badge/Library-Chart.js-informational?style=flat&logo=chart.js&color=FFD43B" alt="Chart.js"/>
+ <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=00000F" alt="MySQL"/>
 </p>
 </div>
 
@@ -149,12 +157,12 @@
 <div>
  <p align="center"><b> Tools </b></p>  
  <p align="center">
- <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="100" height="30"/> </a>
- <a href="https://sketch.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="sketch" width="100" height="30"/> </a>
- <a href="https://adobe.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="xd" width="100" height="30"/> </a>
- <a href="https://blender.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" width="120" height="30"/> </a>
- <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" width="100" height="30"/> </a>
- <a href="https://www.unrealengine.com/pt-BR" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="unreal" width="160" height="30"/> </a>
+ <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=F24E1E" alt="Figma"/>
+ <img src="https://img.shields.io/badge/Design-Sketch-informational?style=flat&logo=sketch&color=FFB387" alt="Sketch"/>
+ <img src="https://img.shields.io/badge/Design-Adobe%20Creative%20Cloud-informational?style=flat&logo=adobecreativecloud&color=DA1F26" alt="Adobe Creative Cloud"/>
+ <img src="https://img.shields.io/badge/3D-Blender-informational?style=flat&logo=blender&color=F5792A" alt="Blender"/>
+ <img src="https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&color=100000" alt="Unity"/>
+ <img src="https://img.shields.io/badge/Engine-Unreal%20Engine-informational?style=flat&logo=unrealengine&color=313131" alt="Unreal Engine"/>
 </p>
 </div>
   
@@ -164,8 +172,9 @@
  
  <div align="center">
   <a href="https://victorgabrielnascimento">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=victorgabrielnascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgabrielnascimento&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=victorgabrielnascimento&theme=nord&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgabrielnascimento&theme=nord&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorgabrielnascimento&theme=nord&hide_border=false"/>
 </div>
 
  ##
