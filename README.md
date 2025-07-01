@@ -172,9 +172,9 @@
  
  <div align="center">
   <a href="https://victorgabrielnascimento">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=victorgabrielnascimento&theme=nord&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgabrielnascimento&theme=nord&show_icons=true&hide_border=false&layout=compact"/>
-  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorgabrielnascimento&theme=nord&hide_border=false"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=victorgabrielnascimento&theme=nord&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgabrielnascimento&theme=nord&show_icons=true&hide_border=false&layout=compact"/>
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorgabrielnascimento&theme=nord&hide_border=false"/>
 </div>
 
  ##
