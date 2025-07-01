@@ -6,8 +6,6 @@
 </table>
 <div class="left" align="left" display="flex" flex-direction="column">
  <h4>- 👨🏽‍💻 Software Engineer - Full-Stack Developer</h4>
- <h4>-  <img src="images/br-flag.png" height="20" align="center">  Currently Working in Brazil
- <h4>- ⌨️ Learning GSAP - NextJs - Unreal </h4>
  <h4>- 🕸️ Studying Figma, Sketch & Miro for UX Design Professional Certificate at Coursera</h4>
 </div>
  <br>
