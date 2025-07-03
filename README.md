@@ -1,29 +1,38 @@
 <img src="images/header_en.svg"></img>
-<p align="right">
+<p align="center"><b>🌎 Select a Language 🌎</b></p>
+<p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English-0A2342?style=flat" alt="English"></a>
   <a href="README_br.md"><img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Portugu%C3%AAs-B8860B?style=flat" alt="Português"></a>
   <a href="README_sp.md"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Espa%C3%B1ol-8B0000?style=flat" alt="Español"></a>
 </p>
-<div class="left" align="left" display="flex" flex-direction="column">
- <h4>- 👨🏽‍💻 Software Engineer - Full-Stack Developer</h4>
- <h4>- 🕸️ Studying Figma, Sketch & Miro for UX Design Professional Certificate at Coursera</h4>
+
+##
+<div align="center">
+  <p>I am a 22-year-old Brazilian Full-stack Software Engineer with over 2 years of experience dedicated to developing robust solutions and crafting intuitive digital experiences. My expertise spans the intersection of impactful design, optimized code architecture, and 3D modeling, always striving to innovate and deliver tangible value. Throughout my career, I've led high-fidelity prototyping and built reusable component libraries (Svelte, NestJS), in addition to developing full-stack automation systems, real-time dashboards, and gamified educational games that resulted in co-authorship of a scientific paper.</p>
 </div>
  <br>
+
+ ##
  <div>
- <div class= "connectWithMe" align="center">
-  <a href="mailto:victorgabrielnamelo@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Connect-Gmail-informational?style=flat&logo=gmail&color=D14836" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/victorgnascimento/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-informational?style=flat&logo=linkedin&color=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.behance.net/victornascimento" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-Behance-informational?style=flat&logo=behance&color=1769ff" alt="Behance"/>
-  </a>
-  <a href="https://www.coursera.org/user/c64b35a0a3552907b1a917c0f2ec2f2d" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Education-Coursera-informational?style=flat&logo=coursera&color=0056D2" alt="Coursera"/>
-  </a>
- </div>
+  <p align="center"><b>🔗 Connect With Me 🔗</b></p>
+  <div class="connectWithMe" align="center">
+    <a href="mailto:victorgabrielnamelo@gmail.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Connect-Gmail-informational?style=flat&logo=gmail&color=D14836" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/victorgnascimento/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Connect-%F0%9F%94%97%20LinkedIn-0077B5?style=flat" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.behance.net/victornascimento" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Portfolio-Behance-informational?style=flat&logo=behance&color=1769ff" alt="Behance"/>
+    </a>
+    <a href="https://victorgn.vercel.app/#" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat&logo=globe" alt="Portfolio"/>
+    </a>
+    <a href="https://www.coursera.org/user/c64b35a0a3552907b1a917c0f2ec2f2d" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Education-Coursera-informational?style=flat&logo=coursera&color=0056D2" alt="Coursera"/>
+    </a>
+  </div>
+</div>
   
   ##
  
@@ -138,12 +147,11 @@
  ##
 <br>
 <div>
- <p align="center"><b> Technical </b></p>  
+ <p align="center"><b>💡 Technical 💡</b></p>  
  <p align="center">
  <img src="https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=svelte&color=FF3E00" alt="Svelte"/> </a>
  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" alt="React"/>
  <img src="https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&color=ea2845" alt="NestJS"/>
- <img src="https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=nodedotjs&color=339933" alt="Node.js"/>
  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=007ACC" alt="TypeScript"/>
  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=239120" alt="C#"/>
  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=00000F" alt="MySQL"/>
@@ -152,7 +160,7 @@
 
 <br>
 <div>
- <p align="center"><b> Tools </b></p>  
+ <p align="center"><b>🛠️ Tools 🛠️</b></p>  
  <p align="center">
  <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=F24E1E" alt="Figma"/>
  <img src="https://img.shields.io/badge/Design-Sketch-informational?style=flat&logo=sketch&color=FFB387" alt="Sketch"/>
