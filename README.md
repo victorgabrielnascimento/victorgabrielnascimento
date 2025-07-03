@@ -1,9 +1,9 @@
 <img src="images/header_en.svg"></img>
-<table align="right">
- <tr><td><a href="README_br.md"><img src="images/br-flag.png" height="13"> Portuguese </a></td></tr>
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English </a></td></tr>
- <tr><td><a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Spanish </a></td></tr>
-</table>
+<p align="right">
+  <a href="README.md"><img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English-0A2342?style=flat" alt="English"></a>
+  <a href="README_br.md"><img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Portugu%C3%AAs-B8860B?style=flat" alt="Português"></a>
+  <a href="README_sp.md"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Espa%C3%B1ol-8B0000?style=flat" alt="Español"></a>
+</p>
 <div class="left" align="left" display="flex" flex-direction="column">
  <h4>- 👨🏽‍💻 Software Engineer - Full-Stack Developer</h4>
  <h4>- 🕸️ Studying Figma, Sketch & Miro for UX Design Professional Certificate at Coursera</h4>
