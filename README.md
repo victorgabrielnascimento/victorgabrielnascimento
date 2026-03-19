@@ -185,6 +185,6 @@
  ##
 
  <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorgabrielnascimento}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=victorgabrielnascimento&label=Visitors&color=790D0D&style=for-the-badge&base=2117" alt="Visitor Count" /></p> 
 <br></div>
 <img src="images/header_end.svg"></img>
