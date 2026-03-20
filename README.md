@@ -8,7 +8,7 @@
 
 ##
 <div align="center">
-  <p>I am a 22-year-old Brazilian Full-stack Software Engineer with over 2 years of experience dedicated to developing robust solutions and crafting intuitive digital experiences. My expertise spans the intersection of impactful design, optimized code architecture, and 3D modeling, always striving to innovate and deliver tangible value. Throughout my career, I've led high-fidelity prototyping and built reusable component libraries (Svelte, NestJS), in addition to developing full-stack automation systems, real-time dashboards, and gamified educational games that resulted in co-authorship of a scientific paper.</p>
+  <p>I am a 23-year-old Brazilian Full-stack Software Engineer with over 2 years of experience dedicated to developing robust solutions and crafting intuitive digital experiences. My expertise spans the intersection of impactful design, optimized code architecture, and 3D modeling, always striving to innovate and deliver tangible value. Throughout my career, I've led high-fidelity prototyping and built reusable component libraries (Svelte, NestJS), in addition to developing full-stack automation systems, real-time dashboards, and gamified educational games that resulted in co-authorship of a scientific paper.</p>
 </div>
  <br>
 
